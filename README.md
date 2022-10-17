@@ -5,11 +5,11 @@
 			<h1 align="left">Hi 👋, I'm CofymDD</h1>
 			<h3 align="left">A 14 year old who makes excessive use of the internet</h3>
     		<img align="right" src="https://lanyard-profile-readme.vercel.app/api/419440355180544001?bg=00000000&animated=:true&hideStatus=true&hideTimestamp=true&hideBadges=true">
-			<h5 align="left">🔭 I’m currently working on <a href="https://darknessnetwork.com">our company website</a></h5>
-			<h5 align="left">🌱 I’m currently learning <a href="https://en.wikipedia.org/wiki/Front-end_web_development">Front-End Development</a></h5>
-			<h5 align="left">👨‍💻 More about me available at <a href="https://darknessnetwork.com">my landing page</a></h5>
-			<h5 align="left">📫 You can reach me by <a href="mailto:cofymdd@darknessnetwork.com">email address</a></h5>
-			<h5 align="left">⚡ Fun fact <a>"</a><a>I think, that i am cool<a><a>"</a></h5>
+			<h5 align="left">🔭 I’m currently working on <a href="https://darknessnetwork.com">our company website</a><a>.</a></h5>
+			<h5 align="left">🌱 I’m currently learning <a href="https://en.wikipedia.org/wiki/Front-end_web_development">Front-End Development</a><a>.</a></h5>
+			<h5 align="left">👨‍💻 More about me available at <a href="https://darknessnetwork.com">my landing page</a><a>.</a></h5>
+			<h5 align="left">📫 You can reach me by <a href="mailto:cofymdd@darknessnetwork.com">email address</a><a>.</a></h5>
+			<h5 align="left">⚡ Fun fact <a>"</a><a>I think, that i am cool<a><a>".</a></h5>
 		</td>
 	</tr>
 </table>
