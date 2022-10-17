@@ -5,10 +5,11 @@
 			<h1 align="left">Hi 👋, I'm CofymDD</h1>
 			<h3 align="left">A 14 year old who makes excessive use of the internet</h3>
     		<img align="left" src="https://lanyard-profile-readme.vercel.app/api/419440355180544001?bg=00000000&animated=:true&hideStatus=true&hideTimestamp=true&hideBadges=true">
-			<p align="left">🔭 I’m currently working on </p>
-			<p align="left">🌱 I’m currently learning </p>
-			<p align="left">👨‍💻 All of my projects are available at </p>
-			<p align="left">📫 How to reach me </p>
+			<h5 align="left">🔭 I’m currently working on: </h5>
+			<h5 align="left">🌱 I’m currently learning: </h5>
+			<h5 align="left">👨‍💻 All of my projects are available at: </h5>
+			<h5 align="left">📫 How to reach me: </h5>
+			<h5 align="left">⚡ Fun fact: I think, that i am cool</h5>
 		</td>
 	</tr>
 </table>
