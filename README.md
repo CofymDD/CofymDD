@@ -10,25 +10,25 @@
 
 <table>
 	<tr>
-		<td width="1200px">
-			<h3>Programming languages:</h3>
-			<img align="left" src="https://skillicons.dev/icons?i=cs,cpp,html,css,tailwind,bash" draggable="false">
+		<td width="600px">
+			<h3 align="right">Programming languages</h3>
+			<img align="right" src="https://skillicons.dev/icons?i=cs,cpp,html,css,tailwind,bash" draggable="false">
 		</td>
 		<td width="600px">
-	    	<h3>Tools :</h3>
-        	<img align="left" src="https://skillicons.dev/icons?i=git,docker,stackoverflow" draggable="false">
+	    	<h3 align="left">Applications</h3>
+        	<img align="left" src="https://skillicons.dev/icons?i=vscode,blender,unity,arduino" draggable="false">
 		</td>
 	</tr>
 </table>
 
 <table align="center">
 	<tr>
-		<td width="1200px">
-	    	<h3>Applications:</h3>
-        	<img align="left" src="https://skillicons.dev/icons?i=vscode,blender,unity,arduino" draggable="false">
+		<td width="600px">
+	    	<h3 align="right">Hosts</h3>
+        	<img align="right" src="https://skillicons.dev/icons?i=git,docker,stackoverflow" draggable="false">
 		</td>
 		<td width="600px">
-	    	<h3>Platforms :</h3>
+	    	<h3 align="left">Hosts</h3>
         	<img align="left" src="https://skillicons.dev/icons?i=discord,linkedin,github" draggable="false">
 		</td>
 	</tr>
@@ -36,17 +36,17 @@
 	
 <table align="center">
 	<tr>
-	    <td width="600px">
-	    	<h3>Operating System:</h3>
-        	<img align="left" src="https://skillicons.dev/icons?i=linux" draggable="false">
+	    <td width="400px">
+	    	<h3 align="center">Operating System</h3>
+        	<img align="center" src="https://skillicons.dev/icons?i=linux" draggable="false">
 	    </td>
-	    <td width="600px">
-	    	<h3>Databases:</h3>
-        	<img align="left" src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" draggable="false">
+	    <td width="400px">
+	    	<h3 align="center">Databases</h3>
+        	<img align="center" src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" draggable="false">
 		</td>
-		<td width="600px">
-	    	<h3>Hosts:</h3>
-        	<img align="left" src="https://skillicons.dev/icons?i=gcp,cloudflare" draggable="false">
+		<td width="400px">
+	    	<h3 align="center">Hosts</h3>
+        	<img align="center" src="https://skillicons.dev/icons?i=gcp,cloudflare,cloudflare" draggable="false">
 		</td>
 	</tr>
 </table>
