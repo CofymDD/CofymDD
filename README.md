@@ -5,6 +5,17 @@
 			<h1 align="left">Hi 👋, I'm CofymDD</h1>
 			<h3 align="left">A 14 year old who makes excessive use of the internet</h3>
     		<img align="left" src="https://lanyard-profile-readme.vercel.app/api/419440355180544001?bg=00000000&animated=:true&hideStatus=true&hideTimestamp=true&hideBadges=true">
+			<p align="right"><img src="https://komarev.com/ghpvc/?username=cofymdd&label=Profile%20views&color=0e75b6&style=flat" alt="cofymdd" /></p>
+
+- 🔭 I’m currently working on [our company site](https://github.com/DarknessNetwork/Website)
+
+	- 🌱 I’m currently learning **Front-end web development**
+
+	- 👨‍💻 All of my projects are available at [cofymdd.darknessnetwork.com](cofymdd.darknessnetwork.com)
+
+	- 📫 How to reach me **cofymdd@darknessnetwork.com**
+
+	- ⚡ Fun fact **I think, that i am cool**
 		</td>
 	</tr>
 </table>
