@@ -19,7 +19,7 @@
 
 <table align="center">
 	<tr>
-		<td width="1800px">
+		<td width="1200px">
 	    	<h3>Applications:</h3>
         	<img align="left" src="https://skillicons.dev/icons?i=vscode,blender,docker,git,stackoverflow,unity,arduino" draggable="false">
 		</td>
