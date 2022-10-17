@@ -33,11 +33,11 @@
 
 <table align="center">
 	<tr>
-	    <td width="300px">
+	    <td width="100px">
 	    	<h3>Operating System:</h3>
         	<img align="right" src="https://skillicons.dev/icons?i=linux" draggable="false">
 	    </td>
-	    <td width="900px">
+	    <td width="1100px">
 	    	<h3>Hosts:</h3>
         	<img align="right" src="https://skillicons.dev/icons?i=gcp,firebase,cloudflare" draggable="false">
 		</td>
