@@ -14,6 +14,10 @@
 			<h3>Programming languages:</h3>
 			<img align="left" src="https://skillicons.dev/icons?i=cs,cpp,html,css,tailwind,bash" draggable="false">
 		</td>
+		<td width="600px">
+	    	<h3>Tools :</h3>
+        	<img align="left" src="https://skillicons.dev/icons?i=git,docker,stackoverflow" draggable="false">
+		</td>
 	</tr>
 </table>
 
@@ -21,7 +25,7 @@
 	<tr>
 		<td width="1200px">
 	    	<h3>Applications:</h3>
-        	<img align="left" src="https://skillicons.dev/icons?i=vscode,blender,docker,git,stackoverflow,unity,arduino" draggable="false">
+        	<img align="left" src="https://skillicons.dev/icons?i=vscode,blender,unity,arduino" draggable="false">
 		</td>
 		<td width="600px">
 	    	<h3>Platforms :</h3>
@@ -42,7 +46,7 @@
 		</td>
 		<td width="600px">
 	    	<h3>Hosts:</h3>
-        	<img align="left" src="https://skillicons.dev/icons?i=gcp,cloudflare,workers" draggable="false">
+        	<img align="left" src="https://skillicons.dev/icons?i=gcp,cloudflare" draggable="false">
 		</td>
 	</tr>
 </table>
