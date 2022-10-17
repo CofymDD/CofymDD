@@ -36,15 +36,15 @@
 	
 <table align="center">
 	<tr>
-	    <td width="515px">
+	    <td width="500px">
 	    	<h3 align="left">Operating System</h3>
         	<img align="left" src="https://skillicons.dev/icons?i=linux" draggable="false">
 	    </td>
-	    <td width="170px">
+	    <td width="200px">
 	    	<h3 align="center">Databases</h3>
         	<img align="center" src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" draggable="false">
 		</td>
-		<td width="515px">
+		<td width="500px">
 	    	<h3 align="right">Hosts</h3>
         	<img align="right" src="https://skillicons.dev/icons?i=gcp,cloudflare,cloudflare" draggable="false">
 		</td>
