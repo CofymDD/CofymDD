@@ -4,7 +4,7 @@
 		<td width="1200px">
 			<h1 align="left">Hi 👋, I'm CofymDD</h1>
 			<h3 align="left">A 14 year old who makes excessive use of the internet</h3>
-    		<img align="right" src="https://lanyard-profile-readme.vercel.app/api/419440355180544001?bg=00000000&animated=:true&hideStatus=true&hideTimestamp=true&hideBadges=true">
+    		<img align="left" src="https://lanyard-profile-readme.vercel.app/api/419440355180544001?bg=00000000&animated=:true&hideStatus=true&hideTimestamp=true&hideBadges=true">
 		</td>
 	</tr>
 </table>
