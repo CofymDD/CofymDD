@@ -36,17 +36,17 @@
 	
 <table align="center">
 	<tr>
-	    <td width="400px">
-	    	<h3 align="center">Operating System</h3>
-        	<img align="center" src="https://skillicons.dev/icons?i=linux" draggable="false">
+	    <td width="515px">
+	    	<h3 align="left">Operating System</h3>
+        	<img align="left" src="https://skillicons.dev/icons?i=linux" draggable="false">
 	    </td>
-	    <td width="400px">
+	    <td width="170px">
 	    	<h3 align="center">Databases</h3>
         	<img align="center" src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" draggable="false">
 		</td>
-		<td width="400px">
-	    	<h3 align="center">Hosts</h3>
-        	<img align="center" src="https://skillicons.dev/icons?i=gcp,cloudflare,cloudflare" draggable="false">
+		<td width="515px">
+	    	<h3 align="right">Hosts</h3>
+        	<img align="right" src="https://skillicons.dev/icons?i=gcp,cloudflare,cloudflare" draggable="false">
 		</td>
 	</tr>
 </table>
