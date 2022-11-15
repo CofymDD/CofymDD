@@ -18,7 +18,7 @@
 	<tr>
 		<td width="1200px">
 			<h3 align="left">Programming languages:</h3>
-			<img align="right" src="https://skillicons.dev/icons?i=cs,java,html,css,tailwind,bash" draggable="false">
+			<img align="right" src="https://skillicons.dev/icons?i=cs,html,css,java,py,tailwind,bash" draggable="false">
 		</td>
 	</tr>
 </table>
@@ -44,7 +44,7 @@
 	    </td>
 	    <td width="1100px">
 	    	<h3>Hosts:</h3>
-        	<img align="right" src="https://skillicons.dev/icons?i=gcp,firebase,cloudflare" draggable="false">
+        	<img align="right" src="https://skillicons.dev/icons?i=gcp,heroku,cloudflare" draggable="false">
 		</td>
 	</tr>
 </table>
@@ -53,7 +53,7 @@
 	<tr>
 		<td width="1200px">
 	    	<h3 align="left">Applications:</h3>
-        	<img align="right" src="https://skillicons.dev/icons?i=ps,vscode,visualstudio,blender,unity,arduino" draggable="false">
+        	<img align="right" src="https://skillicons.dev/icons?i=ps,vscode,visualstudio,blender,unity,idea" draggable="false">
 		</td>
 	</tr>
 </table>
