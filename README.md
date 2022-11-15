@@ -44,7 +44,7 @@
 	    </td>
 	    <td width="1100px">
 	    	<h3>Hosts:</h3>
-        	<img align="right" src="https://skillicons.dev/icons?i=gcp,heroku,cloudflare" draggable="false">
+        	<img align="right" src="https://skillicons.dev/icons?i=gcp,cloudflare" draggable="false">
 		</td>
 	</tr>
 </table>
