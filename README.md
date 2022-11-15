@@ -18,7 +18,7 @@
 	<tr>
 		<td width="1200px">
 			<h3 align="left">Programming languages:</h3>
-			<img align="right" src="https://skillicons.dev/icons?i=cs,html,css,java,py,tailwind,bash" draggable="false">
+			<img align="right" src="https://skillicons.dev/icons?i=html,css,cs,java,tailwind,bash" draggable="false">
 		</td>
 	</tr>
 </table>
