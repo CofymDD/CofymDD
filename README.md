@@ -53,7 +53,7 @@
 	<tr>
 		<td width="1200px">
 	    	<h3 align="left">Applications:</h3>
-        	<img align="right" src="https://skillicons.dev/icons?i=ps,vscode,visualstudio,blender,unity,idea" draggable="false">
+        	<img align="right" src="https://skillicons.dev/icons?i=vscode,idea,blender,unity" draggable="false">
 		</td>
 	</tr>
 </table>
