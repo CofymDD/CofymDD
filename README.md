@@ -31,7 +31,7 @@
 		</td>
 		<td width="600px">
 	    	<h3 align="left">Platforms:</h3>
-        	<img align="right" src="https://skillicons.dev/icons?i=discord,github" draggable="false">
+        	<img align="right" src="https://skillicons.dev/icons?i=twitter,discord,github" draggable="false">
 		</td>
 	</tr>
 </table>
